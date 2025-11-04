@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+soundfile
+python-multipart
+boto3
+python-dotenv
+kafka-python
+requests
